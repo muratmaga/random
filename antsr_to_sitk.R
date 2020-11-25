@@ -1,3 +1,4 @@
+# From Stefan Schlager
 #' convert an  SimpleITK image to an antsImage
 #'
 #' convert an  SimpleITK image to an antsImage
